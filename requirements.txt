@@ -1,0 +1,3 @@
+gmusicapi
+youtube-dl
+mutagen
